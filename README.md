@@ -6,4 +6,4 @@
     -  Resta
     -  Multiplicacion
 
-https://conversor-base.netlify.app/
+https://matiasbernal.github.io/conversor-bases/
